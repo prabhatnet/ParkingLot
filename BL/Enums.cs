@@ -12,7 +12,7 @@ namespace ParkingLot.BL
 
         public enum ParkingSpotType
         {
-            BIKE, CAR, TRUCK, RESERVED, TAXI
+            BIKE, CAR, TRUCK, RESERVED, CAB
         }
 
         public enum Status
