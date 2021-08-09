@@ -8,7 +8,7 @@ namespace ParkingLot.BL
     public abstract class ParkingSpot
     {
         public int Number { get; set; }
-        public FloorNum Floor { get; set; }
+        public FloorNumber Floor { get; set; }
         public Vehicle Vehicl { get; set; }
         public bool IsFree { get; set; }
         public ParkingSpotType SpotType { get; set; }
