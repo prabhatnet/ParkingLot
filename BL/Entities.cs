@@ -6,6 +6,7 @@ namespace ParkingLot.BL
 {
         public class Telemachine
         {
+        public int TelemachId { get; set; }
            
         }
         public class Customer
