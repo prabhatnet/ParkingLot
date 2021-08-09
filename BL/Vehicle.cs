@@ -38,7 +38,7 @@ namespace ParkingLot.BL
         public Truck()
         {
             base.vehicleType = VehicleType.TRUCK;
-            base.Floor = FloorNum.GROUND;
+            
         }
     }
 
