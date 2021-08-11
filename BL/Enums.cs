@@ -30,5 +30,10 @@ namespace ParkingLot.BL
         GROUND, FIRST, SECOND, THIRD, FOURTH, FIFTH
     }
 
+    public enum CustomerType
+    {
+        FAMILY, SINGLE, COUPLE, OFFICE, WORKERS
+    }
+
          
     }
