@@ -13,6 +13,7 @@ namespace ParkingLot.BL
         {
         public int id { get; set; }
         public string Name { get; set; }
+        public string LicenseNumber { get; set; }
            
         }
         public class System
