@@ -9,7 +9,7 @@ namespace ParkingLot.BL
     {
         public int Number { get; set; }
         public FloorNumber Floor { get; set; }
-        public Vehicle Vehicl { get; set; }
+        public Vehicle VehicleNumber { get; set; }
         public bool IsFree { get; set; }
         public ParkingSpotType SpotType { get; set; }
          
