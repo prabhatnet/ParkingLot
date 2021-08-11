@@ -17,7 +17,7 @@ namespace ParkingLot.BL
 
         public enum Status
         {
-            ACTIVE, BLOCKED, RESERVED, UNKNOWN
+            ACTIVE, BLOCKED, RESERVED, UNKNOWN, TRUCK
         }
 
         public enum ParkingTicketStatus
