@@ -13,7 +13,7 @@ namespace ParkingLot.BL
         public string LicenseNumber { get; set; }
         public VehicleType vehicleType { get; set; }
         public ParkingTicket parkingTicket { get; set; }
-        public FloorNum Floor { get; set; }
+        public FloorNum floorNum { get; set; }
 
     }
 
